@@ -3,6 +3,7 @@
     <td>
       <h1>Hey, I'm Yashraj Jain! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h1>
       <ul>
+        <li>:man_student: Machine Learning Lead at Developer Student Clubs CVRGU</li>
         <li>🔭 I’m currently working on the field of Data Science.</li>
         <li>🌱 I’m currently learning Machine Learning with Python.</li>
         <li>👯 I’m looking to collaborate on Open Source projects on Machine Learning .</li>
