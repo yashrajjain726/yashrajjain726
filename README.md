@@ -4,11 +4,10 @@
       <h1>Hey, I'm Yashraj Jain! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"></h1>
       <ul>
         <li>:man_student: Machine Learning Lead at Developer Student Clubs CVRGU</li>
-        <li>🔭 I’m currently working on the field of Data Science.</li>
-        <li>🌱 I’m currently learning Machine Learning with Python.</li>
-        <li>👯 I’m looking to collaborate on Open Source projects on Machine Learning .</li>
+        <li>🔭 I’m currently working on Competitive Programming.</li>
+        <li>🌱 I’m currently learning Software Development Skills.</li>
+        <li>👯 I’m looking to collaborate on Open Source projects.</li>
         <li>🤔 I’m looking for help with project documentation.</li>
-        <li>💬 Ask me about Machine Learning or any tech related stuff.</li>
         <li>😄 Pronouns: He/His .</li>
         <li>⚡ Fun fact: Always wanted to explore the world via the mind phenomena.</li>
       </ul>
@@ -49,7 +48,7 @@
     <h2>Communication</h2>
       
 [![Stack OverFlow](http://img.shields.io/badge/-Stack%20OverFlow-%23FE7A16?style=flat-square&logo=stack-overflow&logoColor=ffffff&link=https://stackoverflow.com/users/12069905/yashraj-jain)](https://stackoverflow.com/users/12069905/yashraj-jain)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashraj-jain-695453178/)](https://www.linkedin.com/in/yashraj-jain-695453178/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashraj-jain-695453178/)](https://www.linkedin.com/in/yashrajjain726/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:yashrajjain726@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_infynite_)](https://instagram.com/_infynite_)
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jain.yashraj726)](https://www.facebook.com/jain.yashraj726)
