@@ -20,31 +20,6 @@
 <table>
   <tr>
     <td>
-    <h2>Language and Tools</h2>
-    
-![Python](http://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
-![TensorFlow](http://img.shields.io/badge/-Tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![Anaconda Prompt](http://img.shields.io/badge/-Anaconda-%2342B029?style=flat-square&logo=anaconda&logoColor=ffffff)
-![Pandas](http://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff)
-![MySQL](http://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![JQuery](http://img.shields.io/badge/-Jquery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff)
-![Bootsrap](http://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-</div>
- </td> 
- </tr>
-</table>
-<table>
-  <tr>
-    <td>
     <h2>Communication</h2>
       
 [![Stack OverFlow](http://img.shields.io/badge/-Stack%20OverFlow-%23FE7A16?style=flat-square&logo=stack-overflow&logoColor=ffffff&link=https://stackoverflow.com/users/12069905/yashraj-jain)](https://stackoverflow.com/users/12069905/yashraj-jain)
