@@ -25,8 +25,6 @@
 [![Stack OverFlow](http://img.shields.io/badge/-Stack%20OverFlow-%23FE7A16?style=flat-square&logo=stack-overflow&logoColor=ffffff&link=https://stackoverflow.com/users/12069905/yashraj-jain)](https://stackoverflow.com/users/12069905/yashraj-jain)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashraj-jain-695453178/)](https://www.linkedin.com/in/yashrajjain726/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:yashrajjain726@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_infynite_)](https://instagram.com/_infynite_)
-[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jain.yashraj726)](https://www.facebook.com/jain.yashraj726)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yashrajjain726)](https://github.com/yashrajjain726)
  </td>   
      <td>
