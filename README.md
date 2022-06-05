@@ -1,4 +1,4 @@
-# Hey, I'm Yashraj Jain! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
+# Hey, I'm Yashraj Jain!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrajjain726&label=Profile%20views&color=0e75b6&style=flat" alt="yashrajjain726" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrajjain726&row=2&column=4" alt="yashrajjain726" /></a> </p>
