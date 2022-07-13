@@ -1,6 +1,7 @@
 
 
 ## Hey, I am Yashraj :wave:
+![](https://komarev.com/ghpvc/?username=yashrajjain726)
 
 <table>
   <tr>
