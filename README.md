@@ -1,7 +1,7 @@
 
 
 ## Hey, I am Yashraj :wave:
-![](https://komarev.com/ghpvc/?username=yashrajjain726)
+![](https://komarev.com/ghpvc/?username=yashrajjain726&color=brightgreen)
 
 <table>
   <tr>
