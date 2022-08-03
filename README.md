@@ -24,7 +24,7 @@
 
 ## My Portfolio:
 
-**[Click Here](https://yashrajjain.me/)**.
+**[Click Here](https://yashrajjain.in/)**.
 
 ## My Github Stats:
 
