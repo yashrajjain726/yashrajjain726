@@ -7,12 +7,12 @@
   <tr>
     <td valign="center">
       <p>
-        👀 &nbsp;A Software developer with un-common tech-stack.<br/>
+        👀 &nbsp; A Software developer with un-common tech-stack.<br/>
         ✈️ &nbsp;Building mobile apps using Hybrid & Native Platforms.<br/>
-        😍 &nbsp;I'm 21 years old and boosting my competitive programming using Java.<br/>
-        🚀 &nbsp;My hobbies include searching about new gadgets, playing video games and coding (as a Developer and all).<br/>
-        🙂 &nbsp;Fun Fact: I don't follow any builded way, I build it with my own.<br/>
-        💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
+        😍 &nbsp; I'm 21 years old building my competitive programming skills using Java.<br/>
+        🚀 &nbsp; My hobbies include searching for new gadgets, playing video games, and coding (as a Developer and all).<br/>
+        🙂 &nbsp; Fun Fact: I don't follow any built way, I build it on my own.<br/>
+        💞️ &nbsp; Follow my Github to stay updated on my amazing projects.<br/>
       </p>
     </td>
     <td>
