@@ -76,7 +76,7 @@
     </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashrajjain726)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=yashrajjain726)
 
 ## Connect with me:
 
