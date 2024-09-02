@@ -12,9 +12,10 @@
 - SDE Intern at **[Queppelin Technologies](https://www.queppelin.com/)** (Feb 2021 - Aug 2021).
 - SDE Intern at **[HUMACi](https://aiplatform.humaci.com/aiprogram)**(Oct 2020 - Dec 2020).
 
-### Recent Activity 
+### Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 
 
 #### Technologies 💬
