@@ -14,6 +14,7 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/yashrajjain726/yashrajjain726/pull/1) in [yashrajjain726/yashrajjain726](https://github.com/yashrajjain726/yashrajjain726)
 <!--END_SECTION:activity-->
 
 
