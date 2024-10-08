@@ -14,7 +14,7 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11820](https://github.com/immich-app/immich/issues/11820#issuecomment-2399343987) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🗣 Commented on [#13279](https://github.com/immich-app/immich/pull/13279#issuecomment-2400188665) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 
