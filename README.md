@@ -14,7 +14,7 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13255](https://github.com/immich-app/immich/pull/13255) in [immich-app/immich](https://github.com/immich-app/immich)
+1. ❌ Closed PR [#13255](https://github.com/immich-app/immich/pull/13255) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 
