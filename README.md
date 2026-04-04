@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://githubcard.com/yashrajjain726.svg" width="420" alt="Yashraj Jain" />
-  <br/><br/>
   <p>
     <a href="https://yashrajjain.in">yashrajjain.in</a> ·
     <a href="https://linkedin.com/in/yashrajjain726">linkedin</a> ·
